@@ -1,9 +1,15 @@
+backup
+backup.sh
+calculations.sh
 file1.txt
 file2.txt
 file3.txt
+images
 index.txt
 input.txt
 navigating-linux-filesystem.sh
+README.md
 shellScript.sh
 shell-scripting
+sorted_files_sorted_alphabetically.txt
 sorting.sh

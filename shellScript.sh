@@ -52,8 +52,8 @@
 #     echo "Hello, $1! Nice to meet you."
 # }
 
-#call the great function and pass the name as an argument
+# # call the great function and pass the name as an argument
 
-# greet "John"
+# greet "Ebuka"
 
 
